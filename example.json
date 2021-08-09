@@ -1,1 +1,58 @@
-{'_bkt': 'temp~20~AB1B5E73-7368-48A9-A6E0-6F2D87302F31', '_cd': '20:7545730', '_indextime': '1628528211', '_raw': '{"ipapi": {"ip": "168.149.146.247", "version": "IPv4", "city": "New York", "region": "New York", "region_code": "NY", "country": "US", "country_name": "United States", "country_code": "US", "country_code_iso3": "USA", "country_capital": "Washington", "country_tld": ".us", "continent_code": "NA", "in_eu": false, "postal": "10011", "latitude": 40.7316, "longitude": -73.9985, "timezone": "America/New_York", "utc_offset": "-0400", "country_calling_code": "+1", "currency": "USD", "currency_name": "Dollar", "languages": "en-US,es-US,haw,fr", "country_area": 9629091.0, "country_population": 327167434.0, "asn": "AS396982", "org": "GOOGLE-PRIVATE-CLOUD"}, "host_data": {"hostname": "XPNYNOTE05", "username": "Braulio.Rivas\\n", "machine": {"machine": "AMD64", "version": "10.0.19041", "platform": "Windows-10-10.0.19041-SP0", "uname": ["Windows", "XPNYNOTE05", "10", "10.0.19041", "AMD64", "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"], "system": "Windows", "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"}}, "info": "VPN OK", "ms_vpn": 9, "packetloss_vpn": 0, "ms_internet": 11, "packetloss_internet": 0, "ms_gateway": 0, "packetloss_gateway": 0, "version": "1.0.4"}', '_serial': '0', '_si': ['idx-i-064d1a5c6621b1d5a.xpinvestimentos.splunkcloud.com', 'temp'], '_sourcetype': 'status_conexao', '_subsecond': '.348187', '_time': '2021-08-09T13:56:51.348-03:00', 'host': 'http-inputs-xpinvestimentos.splunkcloud.com', 'index': 'temp', 'linecount': '1', 'source': 'http:tempestAllowme', 'sourcetype': 'status_conexao', 'splunk_server': 'idx-i-064d1a5c6621b1d5a.xpinvestimentos.splunkcloud.com'}
+{
+  "ipapi": {
+    "ip": "168.149.146.247",
+    "version": "IPv4",
+    "city": "New York",
+    "region": "New York",
+    "region_code": "NY",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "10011",
+    "latitude": 40.7316,
+    "longitude": -73.9985,
+    "timezone": "America/New_York",
+    "utc_offset": "-0400",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434.0,
+    "asn": "AS396982",
+    "org": "GOOGLE-PRIVATE-CLOUD"
+  },
+  "host_data": {
+    "hostname": "XPNYNOTE05",
+    "username": "Braulio.Rivas\\n",
+    "machine": {
+      "machine": "AMD64",
+      "version": "10.0.19041",
+      "platform": "Windows-10-10.0.19041-SP0",
+      "uname": [
+        "Windows",
+        "XPNYNOTE05",
+        "10",
+        "10.0.19041",
+        "AMD64",
+        "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"
+      ],
+      "system": "Windows",
+      "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"
+    }
+  },
+  "info": "VPN OK",
+  "ms_vpn": 9,
+  "packetloss_vpn": 0,
+  "ms_internet": 11,
+  "packetloss_internet": 0,
+  "ms_gateway": 0,
+  "packetloss_gateway": 0,
+  "version": "1.0.4"
+}',
+}
